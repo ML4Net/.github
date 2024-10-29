@@ -10,10 +10,13 @@
 - **University**: Politecnico di Torino
 
 ## Members
-- Andrea Botticella - [GitHub](https://github.com/botti001) [LinkedIn]()
-- Elia Innocenti - [GitHub](https://github.com/eliainnocenti) [LinkedIn](https://www.linkedin.com/in/eliainnocenti/)
-- Renato Mignone - [GitHub](https://github.com/RenatoMignone) [LinkedIn]()
-- Simone Romano - [GitHub](https://github.com/sroman0) [LinkedIn]()
+
+| Name              | GitHub                                             | LinkedIn                                             |
+|-------------------|----------------------------------------------------|------------------------------------------------------|
+| Andrea Botticella | [![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?logo=github)](https://github.com/botti001) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]() |
+| Elia Innocenti    | [![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?logo=github)](https://github.com/eliainnocenti) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/eliainnocenti/) |
+| Renato Mignone    | [![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?logo=github)](https://github.com/RenatoMignone) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]() |
+| Simone Romano     | [![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?logo=github)](https://github.com/sroman0)   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]() |
 
 ## Repositories
 1. **ML4N-project** - [Brief description of what this repo contains or its purpose]
@@ -25,9 +28,16 @@
 If you are a member of **ML4Net**, feel free to contribute by cloning the repositories, creating new branches for your work, and submitting pull requests for review. All contributions are welcome and reviewed by the team members to ensure the quality and consistency of our projects.
 
 ## Contact Information
-For any questions or inquiries, you can reach out to us at:
-- **Email**: [andrea.botticella@studenti.polito.it](mailto:andrea.botticella@studenti.polito.it), [elia.innocenti@studenti.polito.it](mailto:elia.innocenti@studenti.polito.it), [renato.mignone@studenti.polito.it](mailto:renato.mignone@studenti.polito.it) and [simone.romano@studenti.polito.it](mailto:simone.romano@studenti.polito.it)
-- **Website**: [Machine Learning for Networking 2024/2025](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01DSMUV&p_a_acc=2025&p_header=S&p_lang=IT&multi=N)
+
+For any questions or inquiries, feel free to reach out to us individually:
+
+- **Andrea Botticella**: [andrea.botticella@studenti.polito.it](mailto:andrea.botticella@studenti.polito.it)
+- **Elia Innocenti**: [elia.innocenti@studenti.polito.it](mailto:elia.innocenti@studenti.polito.it)
+- **Renato Mignone**: [renato.mignone@studenti.polito.it](mailto:renato.mignone@studenti.polito.it)
+- **Simone Romano**: [simone.romano@studenti.polito.it](mailto:simone.romano@studenti.polito.it)
+
+For more information, visit our course page:  
+- **Website**: [Computer Architectures and Operating Systems (CAOS) 2024/2025](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01GYKUV&p_a_acc=2025&p_header=S&p_lang=IT&multi=N)
 
 ## License
 All content within this organization is licensed under the **[License Type]**. *(You can choose an appropriate license based on your project needs.)*
