@@ -1,6 +1,6 @@
-# .github Repository - ML4N
+# .github Repository - ML4Net
 
-This repository houses the default community health files and templates for the **ML4N** organization. It provides consistent guidelines and resources to support collaboration across all projects.
+This repository houses the default community health files and templates for the **ML4Net** organization. It provides consistent guidelines and resources to support collaboration across all projects.
 
 ## Purpose
 
@@ -11,4 +11,4 @@ The `.github` repository is designed to maintain shared organizational standards
 
 ## Organization Overview
 
-The **ML4N** organization is dedicated to projects related to **Machine Learning for Networking**. It aims to foster a collaborative environment for exploring and learning core concepts through hands-on projects.
+The **ML4Net** organization is dedicated to projects related to **Machine Learning for Networking**. It aims to foster a collaborative environment for exploring and learning core concepts through hands-on projects.
