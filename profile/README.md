@@ -37,7 +37,7 @@ For any questions or inquiries, feel free to reach out to us individually:
 - **Simone Romano**: [simone.romano@studenti.polito.it](mailto:simone.romano@studenti.polito.it)
 
 For more information, visit our course page:  
-- **Website**: [Computer Architectures and Operating Systems (CAOS) 2024/2025](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01GYKUV&p_a_acc=2025&p_header=S&p_lang=IT&multi=N)
+- **Website**: [Machine Learning for Networking (ML4N) 2024/2025](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01DSMUV&p_a_acc=2025&p_header=S&p_lang=IT&multi=N)
 
 ## License
 All content within this organization is licensed under the **[License Type]**. *(You can choose an appropriate license based on your project needs.)*
