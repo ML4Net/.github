@@ -19,8 +19,8 @@
 | Simone Romano     | [![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?logo=github)](https://github.com/sroman0)   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/simone-romano-383277307/) |
 
 ## Repositories
-1. **SSH-Shell-Attacks** - Repository for the machine learning and data analysis tasks related to SSH Shell Attacks project.
-2. **latex-report** - Repository containing the LaTeX files and resources for documenting the project.
+1. [**SSH-Shell-Attacks**](https://github.com/ML4Net/SSH-Shell-Attacks) - Repository for the machine learning and data analysis tasks related to SSH Shell Attacks project.
+2. [**latex-report**](https://github.com/ML4Net/latex-report) - Repository containing the LaTeX files and resources for documenting the project.
 <!--3. **[Repository Name 3]** - [Brief description of what this repo contains or its purpose]-->
 <!--*(Add or remove repositories as needed)*-->
 
