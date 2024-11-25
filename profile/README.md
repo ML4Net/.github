@@ -1,5 +1,7 @@
 # Welcome to the **ML4Net** GitHub Page
 
+![polito](resources/logo_polito.jpg)
+
 ## About Us
 **ML4Net** is a collaborative group of students working on projects related to the **Machine Learning for Networking** course. 
 <!-- Our organization focuses on practical applications and research in **[field/topic]**, driven by our passion for learning and innovation. -->
