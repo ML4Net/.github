@@ -23,7 +23,7 @@
 ## Repositories
 1. [**SSH-Shell-Attacks**](https://github.com/ML4Net/SSH-Shell-Attacks) - Repository for the machine learning and data analysis tasks related to SSH Shell Attacks project.
 2. [**latex-report**](https://github.com/ML4Net/latex-report) - Repository containing the LaTeX files and resources for documenting the project.
-<!--3. **[Repository Name 3]** - [Brief description of what this repo contains or its purpose]-->
+3. [**Teaching-material**](https://github.com/ML4Net/Teaching-material) - Contains all the materials and exercises for the Machine Learning for Networking course.
 <!--*(Add or remove repositories as needed)*-->
 
 ## How to Contribute
