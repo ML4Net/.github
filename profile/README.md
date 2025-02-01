@@ -42,7 +42,7 @@ For more information, visit our course page:
 - **Website**: [Machine Learning for Networking (ML4N) 2024/2025](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01DSMUV&p_a_acc=2025&p_header=S&p_lang=IT&multi=N)
 
 ## License
-All content within this organization is licensed under the **[License Type]**. *(You can choose an appropriate license based on your project needs.)*
+All content within this organization is licensed under the **MIT License**.
 
 ---
 
